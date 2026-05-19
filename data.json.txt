@@ -1,0 +1,23 @@
+{
+  "name": "TAQUI HAIDAR",
+  "title": "Aviation Operations Professional",
+
+  "about": "Experienced aviation operations professional skilled in flight monitoring, OTP analysis, delay attribution, ramp coordination, airport operations, and real-time systems management.",
+
+  "skills": [
+    "Flight Operations Monitoring",
+    "OTP Analysis",
+    "Delay Attribution",
+    "Airport Operations",
+    "Ramp Coordination",
+    "Resource Management",
+    "MS Excel",
+    "Power BI",
+    "Power Query",
+    "Coral Draw",
+    "Incident Reporting",
+    "Data Analysis"
+  ],
+
+  "certification": "Dangerous Goods Regulations (DGR) – CAT 8 Certified"
+}
