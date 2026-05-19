@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TAQUI HAIDAR | Aviation Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- HERO -->
+<header class="hero">
+  <div class="overlay"></div>
+
+  <div class="hero-content">
+    <h1 class="fade-in" id="name"></h1>
+    <p class="fade-in" id="title"></p>
+
+    <div class="tags fade-in">
+      <span>Flight Ops</span>
+      <span>OTP Analysis</span>
+      <span>Airport Coordination</span>
+      <span>Real-Time Monitoring</span>
+    </div>
+  </div>
+</header>
+
+<!-- DASHBOARD -->
+<section class="grid">
+
+  <div class="card hover">
+    <h3>OPS STATUS</h3>
+    <p>ACTIVE</p>
+  </div>
+
+  <div class="card hover">
+    <h3>OTP TRACKING</h3>
+    <p>LIVE</p>
+  </div>
+
+  <div class="card hover">
+    <h3>DELAY ANALYSIS</h3>
+    <p>MONITORING</p>
+  </div>
+
+  <div class="card hover">
+    <h3>FLIGHT OPS</h3>
+    <p>REAL TIME</p>
+  </div>
+
+</section>
+
+<!-- ABOUT -->
+<section class="section fade-in">
+  <h2>ABOUT</h2>
+  <p id="about"></p>
+</section>
+
+<!-- SKILLS -->
+<section class="section fade-in">
+  <h2>SKILLS</h2>
+  <div id="skills" class="skills"></div>
+</section>
+
+<!-- CERT -->
+<section class="section fade-in">
+  <h2>CERTIFICATIONS</h2>
+  <p id="cert"></p>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>© TAQUI HAIDAR | Aviation Operations Portfolio</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
